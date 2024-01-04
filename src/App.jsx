@@ -19,8 +19,8 @@ polyfillCountryFlagEmojis();
 
 export default function App() {
   return (
-    <BrowserRouter>
-      <CitiesProvide>
+    <CitiesProvide>
+      <BrowserRouter>
         <Routes>
           <Route index element={<Homepage />} />
           <Route path="product" element={<Product />} />
@@ -35,7 +35,7 @@ export default function App() {
           </Route>
           <Route path="*" element={<PageNotFound />} />
         </Routes>
-      </CitiesProvide>
-    </BrowserRouter>
+      </BrowserRouter>
+    </CitiesProvide>
   );
 }
