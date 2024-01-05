@@ -35,6 +35,42 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-01-05T13:04:09.095Z",
+      "notes": "awdawda",
+      "position": {
+        "lat": "30.050077076046186",
+        "lng": "31.42454856939574"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Ger",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-05T13:11:09.139Z",
+      "notes": "awawfawf",
+      "position": {
+        "lat": "42.455854342840155",
+        "lng": "1.8280365756256736"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Saint-Denis-de-Jouhet",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-05T13:12:09.717Z",
+      "notes": "awdawd",
+      "position": {
+        "lat": "46.528549058056974",
+        "lng": "1.8280365756256736"
+      },
+      "id": 98443200
     }
   ]
 }
